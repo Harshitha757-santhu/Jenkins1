@@ -19,6 +19,7 @@ public class Test1 {
 	@Test(groups = "Regression")
 	public void demo1() {
 		System.out.println("demo1");
+		System.out.println("test");
 	
 }
 
