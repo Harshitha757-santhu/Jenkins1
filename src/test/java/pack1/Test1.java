@@ -20,6 +20,7 @@ public class Test1 {
 	public void demo1() {
 		System.out.println("demo1");
 		System.out.println("test");
+		System.out.println("test1");
 	
 }
 
